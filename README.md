@@ -1,1 +1,1 @@
-# razer-reflex-game-algorithm
+# laser-reflex-game-algorithm
